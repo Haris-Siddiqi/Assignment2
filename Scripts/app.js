@@ -145,7 +145,7 @@
        console.log('%cApp Started...', "color:white; font-size: 24px;");   
 
        let title = highlightActiveLink();
-       //let success_projects = addtexttoservices();
+       let success_projects = addtexttoservices();
        let success = addParagraphsToJumbotron();
 
        if(success) 
